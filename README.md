@@ -23,4 +23,4 @@ Clear C library for working. AVT-018. Удобные функции для вс�
 <br/><br/><br/>
 <img src="https://img.freepik.com/free-vector/drawing-with-phoenix_23-2148491946.jpg">
 <br/>
-<img src="https://sun9-12.userapi.com/impg/euhV30rqwJTReRkLmiPesW2TiW7bBlGV5S4kGw/gS3v-dMB_P8.jpg">
+<img src="https://sun9-12.userapi.com/impg/euhV30rqwJTReRkLmiPesW2TiW7bBlGV5S4kGw/gS3v-dMB_P8.jpg?size=2560x1707&quality=96&proxy=1&sign=94ce18d79574b47cbf7fd8064ca29812&type=album">
