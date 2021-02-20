@@ -2,13 +2,15 @@
 
 <h2> Чтобы добавить в свой проект эту библиотеку, нужно написать: </h2>
 <code>
-  #include "phoenixLib.h" <br/>
-  int main(){<br/>\n
-  ...<br/>
-  }<br/>
+  #include "phoenixLib.h" <br>
+  int main(){<br>
+  ...<br>
+  }<br>
 </code>
 <h3>Но для этого библиотека должна лежать рядом с файлом, то есть в той же директории.</h3>
 
+<br/>
+<br/>
 
 Clear C library for working. AVT-018. Удобные функции для всяких задач.
 
