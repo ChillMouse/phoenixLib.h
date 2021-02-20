@@ -3,7 +3,7 @@
 <h2> Чтобы добавить в свой проект эту библиотеку, нужно написать: </h2>
 <code>
   #include "phoenixLib.h" <br/>
-  int main(){<br/>
+  int main(){<br/>\n
   ...<br/>
   }<br/>
 </code>
