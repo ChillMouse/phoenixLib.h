@@ -29,4 +29,9 @@ void pauseConsole(){
     system("pause"); // Поставить на паузу консоль Windows
 }
 
+void translateOutput(){
+    SetConsoleCP(CP_UTF8); // Вывод в консоль кириллицу
+    SetConsoleOutputCP(CP_UTF8);
+}
 /// Русские буквы в консоль: SetConsoleCP(1251); SetConsoleOutputCP(1251);
+///  или.   SetConsoleCP(CP_UTF8); SetConsoleOutputCP(CP_UTF8);
